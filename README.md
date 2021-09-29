@@ -13,4 +13,4 @@ Esta notebook Jupyter lee los puntos del relevamiento, los transforma a coordena
 A los puntos del relevamiento transformados, se les cambia el marco de referencia vertical para convertir las alturas ortométricas en elipsoidales en el marco WGS84.
 
 Lee el archivo pafs.xml exportado por Metashape y crea diferentes DataFrames para los elementos 'markers', 'cameras' y 'locations'.
-Combina las marcas con las coordenadas transdformadas y corregidas anteriormente y luego combina los DataFrames para crear el archivo de salida con la estructura requerida por OpenDroneMap.  
+Combina las marcas con las coordenadas transformadas y corregidas anteriormente, y por último combina los DataFrames entre sí utilizando columnas clave para crear el archivo de salida con la estructura requerida por OpenDroneMap.  
