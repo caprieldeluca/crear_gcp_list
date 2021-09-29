@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="1.2.0">
+  <chunk>
+    <sensors>
+      <sensor id="0" label="FC6310 (8.8 mm)" type="frame">
+        <resolution width="4864" height="3648"/>
+      </sensor>
+    </sensors>
+    <cameras>
+      <camera id="0" label="DJI_0152.JPG" sensor_id="0"/>
+      <camera id="1" label="DJI_0153.JPG" sensor_id="0"/>
+      <camera id="2" label="DJI_0154.JPG" sensor_id="0"/>
+      <camera id="3" label="DJI_0155.JPG" sensor_id="0"/>
+      <camera id="4" label="DJI_0156.JPG" sensor_id="0"/>
+      <camera id="5" label="DJI_0157.JPG" sensor_id="0"/>
+      <camera id="6" label="DJI_0158.JPG" sensor_id="0"/>
+      <camera id="7" label="DJI_0159.JPG" sensor_id="0"/>
+      <camera id="8" label="DJI_0160.JPG" sensor_id="0"/>
+      <camera id="9" label="DJI_0161.JPG" sensor_id="0"/>
+      <camera id="10" label="DJI_0162.JPG" sensor_id="0"/>
+      <camera id="11" label="DJI_0163.JPG" sensor_id="0"/>
+      <camera id="12" label="DJI_0164.JPG" sensor_id="0"/>
+      <camera id="13" label="DJI_0165.JPG" sensor_id="0"/>
+      <camera id="14" label="DJI_0166.JPG" sensor_id="0"/>
+      <camera id="15" label="DJI_0167.JPG" sensor_id="0"/>
+      <camera id="16" label="DJI_0168.JPG" sensor_id="0"/>
+      <camera id="17" label="DJI_0169.JPG" sensor_id="0"/>
+      <camera id="18" label="DJI_0170.JPG" sensor_id="0"/>
+      <camera id="19" label="DJI_0171.JPG" sensor_id="0"/>
+      <camera id="20" label="DJI_0172.JPG" sensor_id="0"/>
+      <camera id="21" label="DJI_0173.JPG" sensor_id="0"/>
+      <camera id="22" label="DJI_0174.JPG" sensor_id="0"/>
+      <camera id="23" label="DJI_0175.JPG" sensor_id="0"/>
+      <camera id="24" label="DJI_0176.JPG" sensor_id="0"/>
+      <camera id="25" label="DJI_0177.JPG" sensor_id="0"/>
+      <camera id="26" label="DJI_0178.JPG" sensor_id="0"/>
+      <camera id="27" label="DJI_0179.JPG" sensor_id="0"/>
+      <camera id="28" label="DJI_0180.JPG" sensor_id="0"/>
+      <camera id="29" label="DJI_0181.JPG" sensor_id="0"/>
+      <camera id="30" label="DJI_0182.JPG" sensor_id="0"/>
+      <camera id="31" label="DJI_0183.JPG" sensor_id="0"/>
+      <camera id="32" label="DJI_0184.JPG" sensor_id="0"/>
+      <camera id="33" label="DJI_0185.JPG" sensor_id="0"/>
+      <camera id="34" label="DJI_0186.JPG" sensor_id="0"/>
+      <camera id="35" label="DJI_0187.JPG" sensor_id="0"/>
+      <camera id="36" label="DJI_0188.JPG" sensor_id="0"/>
+      <camera id="37" label="DJI_0189.JPG" sensor_id="0"/>
+      <camera id="38" label="DJI_0190.JPG" sensor_id="0"/>
+      <camera id="39" label="DJI_0191.JPG" sensor_id="0"/>
+      <camera id="40" label="DJI_0192.JPG" sensor_id="0"/>
+      <camera id="41" label="DJI_0193.JPG" sensor_id="0"/>
+      <camera id="42" label="DJI_0194.JPG" sensor_id="0"/>
+      <camera id="43" label="DJI_0195.JPG" sensor_id="0"/>
+      <camera id="44" label="DJI_0196.JPG" sensor_id="0"/>
+      <camera id="45" label="DJI_0197.JPG" sensor_id="0"/>
+    </cameras>
+    <markers>
+      <marker id="20" label="1">
+        <reference x="-58.549873000000002" y="-34.507452000000002" z="22.578882999999999" enabled="false"/>
+      </marker>
+      <marker id="21" label="10">
+        <reference x="-58.548943" y="-34.505749999999998" z="22.652252000000001" enabled="true"/>
+      </marker>
+      <marker id="22" label="11">
+        <reference x="-58.545687999999998" y="-34.502745999999997" z="22.463471" enabled="true"/>
+      </marker>
+      <marker id="23" label="13">
+        <reference x="-58.542395999999999" y="-34.506312000000003" z="22.690666000000001" enabled="false"/>
+      </marker>
+      <marker id="24" label="14">
+        <reference x="-58.548294000000001" y="-34.50748799999997" z="18.358924000000001" enabled="false"/>
+      </marker>
+      <marker id="25" label="17">
+        <reference x="-58.546503000000002" y="-34.503548" z="17.032592000000001" enabled="false"/>
+      </marker>
+      <marker id="26" label="18">
+        <reference x="-58.548240999999999" y="-34.504871999999999" z="23.654451999999999" enabled="false"/>
+      </marker>
+      <marker id="27" label="2">
+        <reference x="-58.546178000000002" y="-34.509576000000002" z="22.479088000000001" enabled="false"/>
+      </marker>
+      <marker id="28" label="3">
+        <reference x="-58.549037000000003" y="-34.5603238999999999" z="22.629088000000001" enabled="true"/>
+      </marker>
+      <marker id="29" label="4">
+        <reference x="-58.548326" y="-34.502755999999997" z="22.917222999999998" enabled="true"/>
+      </marker>
+      <marker id="30" label="5">
+        <reference x="-58.547204999999998" y="-34.504771000000001" z="24.446911000000001" enabled="true"/>
+      </marker>
+      <marker id="31" label="6">
+        <reference x="-58.541156000000002" y="-34.509847999999997" z="24.035924000000001" enabled="true"/>
+      </marker>
+      <marker id="32" label="7">
+        <reference x="-58.549584999999999" y="-34.501173000000002" z="24.4222515999999998" enabled="true"/>
+      </marker>
+      <marker id="33" label="8">
+        <reference x="-58.543785999999998" y="-34.503217" z="24.321951999999999" enabled="true"/>
+      </marker>
+      <marker id="34" label="9">
+        <reference x="-58.544873999999997" y="-34.508423000000002" z="24.194218999999999" enabled="true"/>
+      </marker>
+      <marker id="35" label="C12">
+        <reference x="-58.546672" y="-34.501128" z="22.645686" enabled="true"/>
+      </marker>
+      <marker id="36" label="C22">
+        <reference x="-58.544821000000001" y="-34.504251000000003" z="24.681606000000002" enabled="true"/>
+      </marker>
+      <marker id="37" label="C24">
+        <reference x="-58.548867999999996" y="-34.508561000000001" z="24.265075000000001" enabled="true"/>
+      </marker>
+      <marker id="38" label="ETPB">
+        <reference x="-58.542865000000001" y="-34.501825999999997" z="24.235330999999999" enabled="false"/>
+      </marker>
+    </markers>
+    <frames>
+      <frame id="0">
+        <markers>
+          <marker marker_id="20"/>
+          <marker marker_id="21">
+            <location camera_id="0" pinned="true" x="3224.8149" y="3079.4067"/>
+            <location camera_id="1" pinned="true" x="3507.1294" y="3188.4197"/>
+            <location camera_id="34" pinned="true" x="2740.8899" y="581.65204"/>
+            <location camera_id="35" pinned="true" x="2651.6711" y="1272.9917"/>
+            <location camera_id="36" pinned="true" x="755.91449" y="2454.0088"/>
+            <location camera_id="37" pinned="true" x="681.06036" y="2843.3071"/>
+          </marker>
+          <marker marker_id="22">
+            <location camera_id="0" pinned="true" x="3798.0901" y="1124.92"/>
+            <location camera_id="1" pinned="true" x="3278.9634" y="1156.1252"/>
+            <location camera_id="2" pinned="true" x="3161.0049" y="1646.6932"/>
+            <location camera_id="3" pinned="true" x="3081.1643" y="2166.9861"/>
+            <location camera_id="4" pinned="true" x="3024.1165" y="2691.6819"/>
+            <location camera_id="5" pinned="true" x="2994.7031" y="3231.2932"/>
+            <location camera_id="30" pinned="true" x="3230.2798" y="399.0018"/>
+            <location camera_id="31" pinned="true" x="3137.7764" y="946.86652"/>
+            <location camera_id="32" pinned="true" x="3052.8164" y="1503.7295"/>
+            <location camera_id="33" pinned="true" x="2963.5393" y="2058.5662"/>
+            <location camera_id="34" pinned="true" x="2872.0605" y="2609.8896"/>
+            <location camera_id="35" pinned="true" x="2783.2615" y="3300.6838"/>
+            <location camera_id="36" pinned="true" x="414.3992" y="419.1134"/>
+          </marker>
+          <marker marker_id="23"/>
+          <marker marker_id="24"/>
+          <marker marker_id="25"/>
+          <marker marker_id="26"/>
+          <marker marker_id="27"/>
+          <marker marker_id="28">
+            <location camera_id="14" pinned="true" x="3276.6572" y="602.09833"/>
+            <location camera_id="15" pinned="true" x="3282.7534" y="1157.7975"/>
+            <location camera_id="16" pinned="true" x="3305.0193" y="2271.7532"/>
+            <location camera_id="17" pinned="true" x="3312.123" y="2977.5154"/>
+            <location camera_id="18" pinned="true" x="3290.8196" y="3014.7686"/>
+            <location camera_id="19" pinned="true" x="2889.5352" y="816.21509"/>
+            <location camera_id="20" pinned="true" x="2807.5078" y="1242.3975"/>
+            <location camera_id="21" pinned="true" x="2775.9617" y="1802.5273"/>
+            <location camera_id="22" pinned="true" x="2739.3977" y="2350.1829"/>
+            <location camera_id="23" pinned="true" x="2684.3984" y="2901.2888"/>
+          </marker>
+          <marker marker_id="29">
+            <location camera_id="14" pinned="true" x="2938.6785" y="725.57483"/>
+            <location camera_id="15" pinned="true" x="2945.9934" y="1284.8715"/>
+            <location camera_id="16" pinned="true" x="2967.4507" y="2402.1221"/>
+            <location camera_id="18" pinned="true" x="2955.0676" y="3150.686"/>
+            <location camera_id="19" pinned="true" x="3239.2983" y="712.79932"/>
+            <location camera_id="20" pinned="true" x="3153.7397" y="1131.5472"/>
+            <location camera_id="21" pinned="true" x="3122.3171" y="1696.0321"/>
+            <location camera_id="22" pinned="true" x="3085.9685" y="2247.188"/>
+            <location camera_id="23" pinned="true" x="3032.0684" y="2803.4412"/>
+          </marker>
+          <marker marker_id="30">
+            <location camera_id="9" pinned="true" x="3233.606" y="356.66443"/>
+            <location camera_id="10" pinned="true" x="3238.5015" y="915.32568"/>
+            <location camera_id="11" pinned="true" x="3245.3806" y="1467.561"/>
+            <location camera_id="12" pinned="true" x="3256.1897" y="2025.0579"/>
+            <location camera_id="13" pinned="true" x="3263.8894" y="2589.2974"/>
+            <location camera_id="14" pinned="true" x="3278.1685" y="3157.7656"/>
+            <location camera_id="23" pinned="true" x="2928.738" y="356.22092"/>
+            <location camera_id="24" pinned="true" x="2848.571" y="1491.5853"/>
+            <location camera_id="25" pinned="true" x="2783.572" y="2064.7852"/>
+            <location camera_id="26" pinned="true" x="2683.364" y="2785.4453"/>
+            <location camera_id="27" pinned="true" x="2621.6389" y="3200.8274"/>
+            <location camera_id="44" pinned="true" x="435.5452" y="390.57315"/>
+            <location camera_id="45" pinned="true" x="512.2251" y="1103.5214"/>
+          </marker>
+          <marker marker_id="31">
+            <location camera_id="9" pinned="true" x="2925.8298" y="349.58749"/>
+            <location camera_id="10" pinned="true" x="2930.7214" y="911.37854"/>
+            <location camera_id="11" pinned="true" x="2936.2463" y="1467.116"/>
+            <location camera_id="12" pinned="true" x="2947.6123" y="2024.7916"/>
+            <location camera_id="13" pinned="true" x="2955.5393" y="2590.9724"/>
+            <location camera_id="14" pinned="true" x="2970.4082" y="3160.689"/>
+            <location camera_id="23" pinned="true" x="3235.9539" y="386.87286"/>
+            <location camera_id="24" pinned="true" x="3155.7278" y="1528.6818"/>
+            <location camera_id="25" pinned="true" x="3090.3369" y="2105.146"/>
+            <location camera_id="26" pinned="true" x="2990.1509" y="2828.7871"/>
+            <location camera_id="27" pinned="true" x="2928.1511" y="3245.1804"/>
+          </marker>
+          <marker marker_id="32">
+            <location camera_id="7" pinned="true" x="3104.9346" y="582.98596"/>
+            <location camera_id="8" pinned="true" x="3077.9902" y="1143.9349"/>
+            <location camera_id="9" pinned="true" x="3058.9316" y="1696.2971"/>
+            <location camera_id="10" pinned="true" x="3074.4912" y="2256.2534"/>
+            <location camera_id="11" pinned="true" x="3086.8857" y="2810.5122"/>
+            <location camera_id="12" pinned="true" x="3093.1897" y="3369.0063"/>
+            <location camera_id="25" pinned="true" x="3117.9382" y="747.0257"/>
+            <location camera_id="26" pinned="true" x="3037.5586" y="1471.584"/>
+            <location camera_id="27" pinned="true" x="2982.478" y="1888.9523"/>
+            <location camera_id="28" pinned="true" x="2905.6611" y="2453.1155"/>
+            <location camera_id="29" pinned="true" x="2814.3342" y="3007.9958"/>
+          </marker>
+          <marker marker_id="33">
+            <location camera_id="5" pinned="true" x="3272.7515" y="708.5769"/>
+            <location camera_id="6" pinned="true" x="3229.7227" y="1257.131"/>
+            <location camera_id="7" pinned="true" x="3206.0256" y="1814.6157"/>
+            <location camera_id="8" pinned="true" x="3199.7095" y="2367.0911"/>
+            <location camera_id="9" pinned="true" x="3197.1091" y="2913.3923"/>
+            <location camera_id="27" pinned="true" x="3013.3611" y="646.31366"/>
+            <location camera_id="28" pinned="true" x="2940.7185" y="1213.7373"/>
+            <location camera_id="29" pinned="true" x="2859.7522" y="1770.8782"/>
+            <location camera_id="30" pinned="true" x="2675.6899" y="2890.5229"/>
+            <location camera_id="41" pinned="true" x="452.323" y="617.48358"/>
+            <location camera_id="42" pinned="true" x="409.28244" y="1218.4391"/>
+            <location camera_id="43" pinned="true" x="407.62076" y="2437.1284"/>
+            <location camera_id="44" pinned="true" x="409.77618" y="3019.8372"/>
+          </marker>
+          <marker marker_id="34">
+            <location camera_id="5" pinned="true" x="2945.5134" y="686.78357"/>
+            <location camera_id="6" pinned="true" x="2902.5918" y="1242.7903"/>
+            <location camera_id="7" pinned="true" x="2877.8091" y="1799.988"/>
+            <location camera_id="8" pinned="true" x="2873.2339" y="2359.834"/>
+            <location camera_id="9" pinned="true" x="2870.7822" y="2912.1443"/>
+            <location camera_id="26" pinned="true" x="3388.7952" y="280.07288"/>
+            <location camera_id="27" pinned="true" x="3340.3823" y="699.0545"/>
+            <location camera_id="28" pinned="true" x="3267.2646" y="1266.7312"/>
+            <location camera_id="29" pinned="true" x="3186.7151" y="1825.4268"/>
+            <location camera_id="30" pinned="true" x="3000.9514" y="2946.1406"/>
+          </marker>
+          <marker marker_id="35">
+            <location camera_id="0" pinned="true" x="2810.2356" y="3169.2053"/>
+            <location camera_id="1" pinned="true" x="3161.2551" y="3434.2915"/>
+            <location camera_id="34" pinned="true" x="3095.4189" y="357.50677"/>
+            <location camera_id="35" pinned="true" x="3005.7886" y="1047.5634"/>
+            <location camera_id="36" pinned="true" x="419.40424" y="2714.5579"/>
+            <location camera_id="37" pinned="true" x="332.00305" y="3089.3003"/>
+          </marker>
+          <marker marker_id="36">
+            <location camera_id="9" pinned="true" x="3079.1274" y="353.16791"/>
+            <location camera_id="10" pinned="true" x="3084.1455" y="914.04089"/>
+            <location camera_id="11" pinned="true" x="3090.5989" y="1467.9237"/>
+            <location camera_id="12" pinned="true" x="3101.8315" y="2026.0127"/>
+            <location camera_id="13" pinned="true" x="3109.0203" y="2590.821"/>
+            <location camera_id="14" pinned="true" x="3124.1064" y="3160.0156"/>
+            <location camera_id="23" pinned="true" x="3083.4619" y="370.51166"/>
+            <location camera_id="24" pinned="true" x="3003.4634" y="1509.4806"/>
+            <location camera_id="25" pinned="true" x="2937.8616" y="2084.5488"/>
+            <location camera_id="26" pinned="true" x="2837.8022" y="2806.5869"/>
+            <location camera_id="27" pinned="true" x="2776.0593" y="3222.7241"/>
+            <location camera_id="44" pinned="true" x="274.45996" y="387.90939"/>
+            <location camera_id="45" pinned="true" x="357.16785" y="1101.953"/>
+          </marker>
+          <marker marker_id="37">
+            <location camera_id="4" pinned="true" x="3181.3796" y="142.2354"/>
+            <location camera_id="5" pinned="true" x="3112.4421" y="698.05768"/>
+            <location camera_id="6" pinned="true" x="3069.8052" y="1250.4977"/>
+            <location camera_id="7" pinned="true" x="3044.8865" y="1808.2531"/>
+            <location camera_id="8" pinned="true" x="3039.8975" y="2364.1741"/>
+            <location camera_id="9" pinned="true" x="3037.7627" y="2914.0364"/>
+            <location camera_id="10" pinned="true" x="3062.7681" y="3473.9944"/>
+            <location camera_id="26" pinned="true" x="3222.5044" y="251.66052"/>
+            <location camera_id="27" pinned="true" x="3174.1218" y="671.1546"/>
+            <location camera_id="28" pinned="true" x="3101.4011" y="1239.1033"/>
+            <location camera_id="29" pinned="true" x="3019.9526" y="1796.8573"/>
+            <location camera_id="30" pinned="true" x="2835.7136" y="2917.333"/>
+            <location camera_id="31" pinned="true" x="2740.6277" y="3475.1211"/>
+            <location camera_id="40" pinned="true" x="330.34442" y="14.014395"/>
+            <location camera_id="41" pinned="true" x="284.47574" y="606.97467"/>
+            <location camera_id="42" pinned="true" x="240.97263" y="1211.1615"/>
+            <location camera_id="43" pinned="true" x="240.01657" y="2436.2109"/>
+            <location camera_id="44" pinned="true" x="241.38635" y="3020.8879"/>
+          </marker>
+          <marker marker_id="38"/>
+        </markers>
+      </frame>
+    </frames>
+    <transform>
+      <rotation>9.3011952178853008e-01 -2.3767235022966824e-02 -3.6648709899154625e-01 2.9662643581271769e-01 6.3700073838196669e-01 7.1150742573628345e-01 2.1654198845701933e-01 -7.7049670852002494e-01 5.9953681237676126e-01</rotation>
+      <translation>2.7356188123031803e+06 -4.4903752849922907e+06 -3.5982968318870421e+06</translation>
+      <scale>1.1346769960685560e+01</scale>
+    </transform>
+    <reference>GEOGCS["WGS 84",DATUM["World Geodetic System 1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.01745329251994328,AUTHORITY["EPSG","9102"]],AUTHORITY["EPSG","4326"]]</reference>
+    <region>
+      <center>-2.4711484166727926e+00 -1.0151602220201918e+01 8.0069259588763497e+00</center>
+      <size>3.5205159187316895e+01 2.1695008277893066e+01 5.6550836563110352e+00</size>
+      <R>6.1194593102539226e-02 -9.9781409754326578e-01 2.4944909679786183e-02 -9.9582732136569818e-01 -6.2729697155499420e-02 -6.6279190673979749e-02 6.7699097458039426e-02 -2.0784894483670952e-02 -9.9748925827031820e-01</R>
+    </region>
+    <settings>
+      <property name="accuracy_tiepoints" value="1"/>
+      <property name="accuracy_cameras" value="10"/>
+      <property name="accuracy_cameras_ypr" value="2"/>
+      <property name="accuracy_markers" value="0.0050000000000000001"/>
+      <property name="accuracy_scalebars" value="0.001"/>
+      <property name="accuracy_projections" value="0.10000000000000001"/>
+    </settings>
+  </chunk>
+</document>
